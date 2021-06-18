@@ -26,16 +26,3 @@ def other_lambda_function(event, context):
     # Anything you want here.
     return {'body': 'lambda_MyFunction'}
 
-#testコード
-
-#テストコードだよー
-
-
-def test001():
-    # コード追加ブランチ１
-    return
-
-def test002():
-    # ブランチ２だよー
-    return
-
