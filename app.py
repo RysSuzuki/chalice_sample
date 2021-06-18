@@ -29,3 +29,11 @@ def other_lambda_function(event, context):
 #testコード
 
 #テストコードだよー
+
+
+def test001():
+    return
+
+def test002():
+    return
+
