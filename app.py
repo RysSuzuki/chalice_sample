@@ -25,3 +25,8 @@ def custom_lambda_function001(event, context):
 def other_lambda_function(event, context):
     # Anything you want here.
     return {'body': 'lambda_MyFunction'}
+
+
+
+
+#テストコードだよー
