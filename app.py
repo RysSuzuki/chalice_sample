@@ -27,3 +27,5 @@ def other_lambda_function(event, context):
     return {'body': 'lambda_MyFunction'}
 
 #testコード
+
+#テストコードだよー
