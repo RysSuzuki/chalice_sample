@@ -32,6 +32,7 @@ def other_lambda_function(event, context):
 
 
 def test001():
+    # コード追加ブランチ１
     return
 
 def test002():
